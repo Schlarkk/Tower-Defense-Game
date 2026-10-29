@@ -8,33 +8,17 @@ Datum: 07/09/2026
 
 # **MANY PLACES TD**
 
+This tower defence had a different Idea at first and this you can find in the google doc beneath this text, but now it has changed.
+https://docs.google.com/document/d/17UUaQXYxNbkUiQXAYPegh_IyPNq2acvxRJqmKksIkoI/edit?usp=sharing
 
+The new idea is simple, you place mushrooms down to stop bugs from eating your base tree.
+Here is some gameplay footage:
+<img width="667" height="374" alt="ezgif-cropped" src="https://github.com/user-attachments/assets/ac81f2ef-46c6-4ea3-97e6-198a7ee86a0b" />
 
-Welcome to Many Places TD, a tower defence game where you defend an entrance from strange entities that try and attack your research, do this using your machines and different stations that you can upgrade through different paths that do different things. 
+this is not the actual frame rate in game, it is just a long gif
+<img width="664" height="371" alt="ezgif-optimized" src="https://github.com/user-attachments/assets/a51e2fdc-1f3e-4b42-b8cb-e38c82c6c18b" />
 
-
-
-
-
-The main idea behind this tower defence game, is that its a 2.5D game with an outside camera that you can move through a virtual plane, inside said plane will be a grid where you can place, upgrade and attack with your stations. The unique gimmick of the game will be the fact that enemies all pile up in one spot trying to break your stations.
-
-
-
-IMAGE:
-
-
-Here are a few examples of what stations could look like:
-
-**Basic T1 Blue Turret:**
-Health: 150
-Base Damage: 3
-Pellets Per Second: 4
-Stationary: True
-
-**Basic T1 Healing Station:**
-Health: 80
-Healing per Second: 15
-Stationary: True
+This idea came to me because mushrooms are easier to model than abstract level designs.
 
 
 
