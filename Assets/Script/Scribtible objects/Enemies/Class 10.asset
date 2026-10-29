@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 102cc5d68d5156745a54777afa06a500, type: 3}
+  m_Name: Class 10
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyData
+  enemyName: Class 10
+  enemyClass: 10
+  subClass: 0
+  spawnDifficulty: 1
+  maxHealth: 10
+  moveSpeed: 2.5
+  damageToBase: 1
+  killReward: 2
+  detectionRadius: 6
+  attackDamage: 2
+  attackInterval: 1
+  attackRange: 0.8
+  rangeLeeway: 1
+  prefab: {fileID: 943410076570964776, guid: 1fd0e3baf08a10545a525e5612d6e2e0, type: 3}
